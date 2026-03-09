@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @axe1B1anco;
-- 👀 I’m interested in new codes, programing;
-- 🌱 I’m currently learning Automation with AI;
+- 👀 I’m interested in Automation, RAG, AI Agents, AI, APIS, Coding, Vibe-coding;
+- 🌱 I’m currently learning Automation with AI, Javascript, MERN;
 
 
 <!--- Console.WriteLine("Hello World");
